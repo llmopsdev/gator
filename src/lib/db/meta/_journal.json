@@ -1,0 +1,27 @@
+{
+  "version": "7",
+  "dialect": "postgresql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "7",
+      "when": 1754678941468,
+      "tag": "0000_shocking_bloodstrike",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "7",
+      "when": 1754937451782,
+      "tag": "0001_same_mandroid",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "7",
+      "when": 1754949450379,
+      "tag": "0002_late_thor",
+      "breakpoints": true
+    }
+  ]
+}
